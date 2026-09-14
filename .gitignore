@@ -1,0 +1,43 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Jupyter runtime
+.jupyter/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# ML generated files
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.keras
+
+# Large datasets
+data/
+datasets/
+
+# Logs
+*.log
